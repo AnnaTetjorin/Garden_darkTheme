@@ -1,0 +1,60 @@
+.mainCategoriesToolsButtons {
+  display: flex;
+  margin: 30px;
+  margin-top: 60px;
+}
+
+.mainCategoriesToolsButtons .shortLine {
+  width: 20px;
+  height: 1px;
+  background: #ddd;
+  margin-top: 17px;
+}
+
+.mainCategoriesToolsButtons .mainButton {
+  padding: 8px 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  color: #8b8b8b;
+  background: #fff;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.mainCategoriesToolsButtons .categoryButton {
+  padding: 8px 16px;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  gap: 10px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  color: #8b8b8b;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.mainCategoriesToolsButtons .toolsButton {
+  padding: 8px 16px;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  gap: 10px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  color: rgb(6, 6, 6);
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
